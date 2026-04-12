@@ -1,7 +1,5 @@
 # DSFB_Project
 
-# DSB4B - Data Labeling
-
 This README describes the pipeline for annotating, labeling, and analyzing images and their annotated characters using a single notebook, `final_notebook.ipynb`. Each step in this process includes an explanation of the techniques used to achieve the desired outcomes.
 
 ---
